@@ -1,2 +1,3 @@
 # ZeroPoint
-blog theme
+
+this is my blog theme
